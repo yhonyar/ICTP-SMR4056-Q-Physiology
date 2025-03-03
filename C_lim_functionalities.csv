@@ -1,0 +1,231 @@
+Sample_ID,Group,Growth,Strain,Growth_Medium,Carbon_Source,Nitrogen_Source,Supplement,Description,File_Name,Gene_Sum,Source
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.0001077,Clim_A
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.0001035,Clim_A
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.00010339999999999999,Clim_A
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,8.14e-05,Clim_A
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,8.180000000000001e-05,Clim_A
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,9.28e-05,Clim_A
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,8.669999999999999e-05,Clim_A
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,6.86e-05,Clim_A
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,8.340000000000001e-05,Clim_A
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,8.641e-05,Clim_A
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.056237904000000005,Clim_C
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.06550293139999999,Clim_C
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.081236935,Clim_C
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.070547314,Clim_C
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.071719526,Clim_C
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.06827010600000001,Clim_C
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.077744482,Clim_C
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.071220195,Clim_C
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.076369872,Clim_C
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.055652989,Clim_C
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.008038609,Clim_D
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.007373228999999999,Clim_D
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.0072672299999999995,Clim_D
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.006806492999999999,Clim_D
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.007516468,Clim_D
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.007498274000000001,Clim_D
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.008051946,Clim_D
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.0076126,Clim_D
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.007828695,Clim_D
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.007057359,Clim_D
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.094198492,Clim_E
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.08178523199999999,Clim_E
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.09301606700000001,Clim_E
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.080491148,Clim_E
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.08115733800000001,Clim_E
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.078837296,Clim_E
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.083332196,Clim_E
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.07496544699999999,Clim_E
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.079522273,Clim_E
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.09538791500000002,Clim_E
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.016657084000000006,Clim_F
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.016010957,Clim_F
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.013997105,Clim_F
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.015344212999999999,Clim_F
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.015556238,Clim_F
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.016367589999999998,Clim_F
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.015977278999999997,Clim_F
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.013693422,Clim_F
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.014667455000000003,Clim_F
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.016414989800000005,Clim_F
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.04546675299999999,Clim_G
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.053892663699999996,Clim_G
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.0622382705,Clim_G
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.060500682,Clim_G
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.059717532000000004,Clim_G
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.0574894277,Clim_G
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.066927004,Clim_G
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.06300909900000001,Clim_G
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.06641946800000001,Clim_G
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.0393566387,Clim_G
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.022306101000000002,Clim_H
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.016346977999999998,Clim_H
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.017517558000000003,Clim_H
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.014260194,Clim_H
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.014822508999999998,Clim_H
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.015569521,Clim_H
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.015788827,Clim_H
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.014437170000000001,Clim_H
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.014821493,Clim_H
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.018712789,Clim_H
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.023089546999999995,Clim_I
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.0250273698,Clim_I
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.024127856399999998,Clim_I
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.0283905635,Clim_I
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.0304276171,Clim_I
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.0316644576,Clim_I
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.03651988799999999,Clim_I
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.035668028000000004,Clim_I
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.037336702,Clim_I
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.020904905,Clim_I
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.38828631999999996,Clim_J
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.32606485,Clim_J
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.32130727000000003,Clim_J
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.29974189100000004,Clim_J
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.28423682,Clim_J
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.26604748,Clim_J
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.26459831,Clim_J
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.23278427000000002,Clim_J
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.26239395,Clim_J
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.4120975,Clim_J
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.07622109299999999,Clim_K
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.08824083379999999,Clim_K
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.06459256,Clim_K
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.093954879,Clim_K
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.10656280300000001,Clim_K
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.10429433860000001,Clim_K
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.094219368,Clim_K
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.114535936,Clim_K
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.094139008,Clim_K
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.0696221023,Clim_K
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.023012368999999998,Clim_L
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.0221481705,Clim_L
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.022412749000000003,Clim_L
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.022976342,Clim_L
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.022336607999999997,Clim_L
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.023613391999999997,Clim_L
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.023949818999999997,Clim_L
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.023853378999999997,Clim_L
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.024041855,Clim_L
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.021437505000000003,Clim_L
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.07888253440000001,Clim_M
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.0887104275,Clim_M
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.07034736230000001,Clim_M
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.0821716735,Clim_M
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.07543819400000001,Clim_M
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.0894887261,Clim_M
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.07977997980000001,Clim_M
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.0924004992,Clim_M
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.0815026994,Clim_M
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.08522977570000001,Clim_M
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.0346192821,Clim_N
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.052249416199999996,Clim_N
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.06368526170000001,Clim_N
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.071973895,Clim_N
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.06908487300000002,Clim_N
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.0742092908,Clim_N
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.06686431399999998,Clim_N
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.07471146699999999,Clim_N
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.07043533099999999,Clim_N
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.037197382900000006,Clim_N
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.033160813,Clim_O
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.035774311999999996,Clim_O
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.033889866000000005,Clim_O
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.034464510000000004,Clim_O
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.032414963000000005,Clim_O
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.036157076,Clim_O
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.03396863,Clim_O
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.034958735000000005,Clim_O
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.034779521,Clim_O
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.03290756,Clim_O
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.029253606,Clim_P
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.027865359899999997,Clim_P
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.026884854000000003,Clim_P
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.025394343,Clim_P
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.024589866000000002,Clim_P
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.026079918000000004,Clim_P
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.0264544258,Clim_P
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.024877716,Clim_P
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.02601353,Clim_P
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.025077645,Clim_P
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.0027453140000000004,Clim_Q
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.003744151,Clim_Q
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.00264179,Clim_Q
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.00364921,Clim_Q
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.0031252920000000004,Clim_Q
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.0038482530000000003,Clim_Q
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.004051416,Clim_Q
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.003747194,Clim_Q
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.004121113,Clim_Q
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.0029351410000000005,Clim_Q
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.007400385,Clim_R
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.008545617200000001,Clim_R
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.007407967299999999,Clim_R
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.008583040799999999,Clim_R
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.008616729,Clim_R
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.009899186999999999,Clim_R
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.010280887999999998,Clim_R
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.010107642,Clim_R
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.010268697,Clim_R
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.0063450061999999995,Clim_R
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.011349572,Clim_S
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.010308307000000003,Clim_S
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.011645393,Clim_S
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.009845580000000001,Clim_S
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.010998258,Clim_S
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.011172485000000001,Clim_S
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.012080806999999999,Clim_S
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.013153393999999999,Clim_S
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.012506515,Clim_S
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.009321879000000002,Clim_S
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.028038957000000003,Clim_T
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.029261653999999998,Clim_T
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.032605888,Clim_T
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.030082537,Clim_T
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.03263465,Clim_T
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.03247810610000001,Clim_T
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.035442901,Clim_T
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.034801306,Clim_T
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.03509711,Clim_T
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.025050360600000002,Clim_T
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.012776275000000002,Clim_U
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.011682688000000002,Clim_U
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.010992001500000001,Clim_U
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.011530512,Clim_U
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.0119939304,Clim_U
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.011837207700000001,Clim_U
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.012387357999999998,Clim_U
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.011028430999999998,Clim_U
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.0125293679,Clim_U
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.011622638,Clim_U
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.0068784729999999995,Clim_V
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.0067073819,Clim_V
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.006662015999999999,Clim_V
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.006797681,Clim_V
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.006819444,Clim_V
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.0074506639,Clim_V
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.007196644,Clim_V
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.008303761,Clim_V
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.00738861,Clim_V
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.006494201,Clim_V
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,1.4570000000000001e-05,Clim_W
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,1.0189999999999999e-05,Clim_W
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,9.8646e-06,Clim_W
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,9.926299999999998e-06,Clim_W
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,1.35159e-05,Clim_W
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,1.2560000000000002e-05,Clim_W
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,1.2671999999999998e-05,Clim_W
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,1.6912000000000003e-05,Clim_W
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,1.2355299999999998e-05,Clim_W
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,1.0454999999999999e-05,Clim_W
+c0_1,Clim,0.95,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c5,Rf_S1_L004_R1_001.fastq,0.00032129239999999996,Clim_X
+c1,Clim,0.75,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C1_S2_L008_R1_001.fastq,0.00023816449999999997,Clim_X
+c1_1,Clim,0.78,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,300 µM 3MBA,Biological replicate of sample c1,C1_S2_L004_R1_001.fastq,0.00024185979999999998,Clim_X
+c2,Clim,0.56,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Titratable glucose uptake (Pu-ptsG),Rohan_C2_S3_L008_R1_001.fastq,0.00026459880000000006,Clim_X
+c2_1,Clim,0.59,NQ1243,M9,0.2% glucose,11.34 mM (NH4)2SO4,,Biological replicate of sample c2,C2_S3_L004_R1_001.fastq,0.00029654479999999993,Clim_X
+c3,Clim,0.51,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C3_S4_L008_R1_001.fastq,0.00027985220000000004,Clim_X
+c3_1,Clim,0.46,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,400 µM 3MBA,Biological replicate of sample c3,C3_S4_L004_R1_001.fastq,0.0003021818,Clim_X
+c4,Clim,0.3,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Titratable glucose uptake (Pu-ptsG),Rohan_C4_S5_L008_R1_001.fastq,0.0003388583,Clim_X
+c4_1,Clim,0.39,NQ1390,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM 3MBA,Biological replicate of sample c4,C4_S5_L004_R1_001.fastq,0.0003038117,Clim_X
+c5,Clim,0.91,NCM3722,M9,0.2% glucose,11.34 mM (NH4)2SO4,,NCM3722 (wild type) in M9 medium,Rohan_0_S1_L008_R1_001.fastq,0.0002663942,Clim_X

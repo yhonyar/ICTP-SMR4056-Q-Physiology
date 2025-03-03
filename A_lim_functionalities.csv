@@ -1,0 +1,162 @@
+Sample_ID,Group,Growth,Strain,Growth_Medium,Carbon_Source,Nitrogen_Source,Supplement,Description,File_Name,Gene_Sum,Source
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,9.19e-05,Alim_A
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.000144,Alim_A
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.0001053,Alim_A
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.0001285,Alim_A
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.0001261,Alim_A
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.0001336,Alim_A
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.0001403,Alim_A
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.059781099000000004,Alim_C
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.06557295800000001,Alim_C
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.073382767,Alim_C
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.076757877,Alim_C
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.062458367,Alim_C
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.066969612,Alim_C
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.067831418,Alim_C
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.008094793,Alim_D
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.009411031,Alim_D
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.010599840000000001,Alim_D
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.011177959999999999,Alim_D
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.01136595,Alim_D
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.012053199999999998,Alim_D
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.012560499999999999,Alim_D
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.08895833100000002,Alim_E
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.102977323,Alim_E
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.094558166,Alim_E
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.100270083,Alim_E
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.08369759800000001,Alim_E
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.095715189,Alim_E
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.089072201,Alim_E
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.016894235000000004,Alim_F
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.013954175999999999,Alim_F
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.016829711999999993,Alim_F
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.017029002999999997,Alim_F
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.014047255000000002,Alim_F
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.014846814,Alim_F
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.013841893999999999,Alim_F
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.041050509699999994,Alim_G
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.055604274300000006,Alim_G
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.04591954200000001,Alim_G
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.053402014500000004,Alim_G
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.051086039,Alim_G
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.054010005,Alim_G
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.058338651000000005,Alim_G
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.021237975,Alim_H
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.030261025999999996,Alim_H
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.0260798,Alim_H
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.03057728,Alim_H
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.02890066,Alim_H
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.03128058,Alim_H
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.034186810000000005,Alim_H
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.02367651,Alim_I
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.023712358000000003,Alim_I
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.026094519,Alim_I
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.027797759,Alim_I
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.026649107999999998,Alim_I
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.027183173999999997,Alim_I
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.032321934000000004,Alim_I
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.37406511,Alim_J
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.32913206000000006,Alim_J
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.32226042,Alim_J
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.31101252,Alim_J
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.26482169,Alim_J
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.26947104,Alim_J
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.26664224000000003,Alim_J
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.07254144500000001,Alim_K
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.06405523600000002,Alim_K
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.086100437,Alim_K
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.08365123499999999,Alim_K
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.11791089600000002,Alim_K
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.10394299600000001,Alim_K
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.100033682,Alim_K
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.0231574004,Alim_L
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.024806682000000004,Alim_L
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.02484454,Alim_L
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.027000261999999997,Alim_L
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.023562575,Alim_L
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.024006611,Alim_L
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.026306969,Alim_L
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.12315982460000001,Alim_M
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.1129145689,Alim_M
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.1190537391,Alim_M
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.10326307700000001,Alim_M
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.12815746420000002,Alim_M
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.10618153699999999,Alim_M
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.0974963079,Alim_M
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.019137829000000002,Alim_N
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.021590929000000002,Alim_N
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.0008405400000000002,Alim_N
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.0009036230000000002,Alim_N
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.0008114999999999999,Alim_N
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.001289869,Alim_N
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.000989928,Alim_N
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.03304498299999999,Alim_O
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.035579480999999996,Alim_O
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.036787298,Alim_O
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.036992353,Alim_O
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.036549111,Alim_O
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.03899825999999999,Alim_O
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.038204971,Alim_O
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.024808109000000002,Alim_P
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.034371902,Alim_P
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.026374807,Alim_P
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.030807626999999997,Alim_P
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.027099708,Alim_P
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.028810592999999995,Alim_P
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.030390431000000002,Alim_P
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.0034719250000000003,Alim_Q
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.003719651,Alim_Q
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.0037150049999999995,Alim_Q
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.003964171000000001,Alim_Q
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.0036307659999999997,Alim_Q
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.004929121999999999,Alim_Q
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.004347696000000001,Alim_Q
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.0077417488,Alim_R
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.009053539099999999,Alim_R
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.010421886,Alim_R
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.011726786999999999,Alim_R
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.0114003425,Alim_R
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.013172361,Alim_R
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.013315599000000001,Alim_R
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.010614254,Alim_S
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.0144985173,Alim_S
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.014491348000000001,Alim_S
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.015780715999999997,Alim_S
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.018107832,Alim_S
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.019290434,Alim_S
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.020799121999999996,Alim_S
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.024516808,Alim_T
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.0300224764,Alim_T
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.02669435,Alim_T
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.028100463,Alim_T
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.030819937,Alim_T
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.031844660999999996,Alim_T
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.033867812,Alim_T
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.011236181100000001,Alim_U
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.011868179999999999,Alim_U
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.0116424,Alim_U
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.013385745000000003,Alim_U
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.011970406999999999,Alim_U
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.012560544999999998,Alim_U
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.014529396000000003,Alim_U
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.006916573000000001,Alim_V
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.007209842,Alim_V
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.008460804999999998,Alim_V
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.008610880000000001,Alim_V
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.008510650000000002,Alim_V
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.009623660000000001,Alim_V
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.009265679999999997,Alim_V
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,1.2667e-05,Alim_W
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,1.4722900000000001e-05,Alim_W
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,2.1870999999999998e-05,Alim_W
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,2.5055000000000003e-05,Alim_W
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,3.2427e-05,Alim_W
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,3.7093e-05,Alim_W
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,3.979500000000001e-05,Alim_W
+a1,Alim,0.69,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A1_S6_L008_R1_001.fastq,0.0002800391,Alim_X
+a1_1,Alim,0.76,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,60 µM IPTG,Biological replicate of sample a1,A1_S6_L004_R1_001.fastq,0.00028240629999999996,Alim_X
+a2,Alim,0.51,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,40 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A2_S7_L008_R1_001.fastq,0.00037096869999999997,Alim_X
+a2_1,Alim,0.55,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO5,40 µM IPTG,Biological replicate of sample a2,A2_S7_L004_R1_001.fastq,0.0004219349,Alim_X
+a3,Alim,0.33,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,28 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A3_S8_L008_R1_001.fastq,0.00037046480000000004,Alim_X
+a4,Alim,0.24,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO4,20 µM IPTG,Titratable ammonia assimilation (Plac-GOGAT),Rohan_A4_S9_L008_R1_001.fastq,0.00039664549999999995,Alim_X
+a4_1,Alim,0.34,NQ393,M9,0.2% glucose,11.34 mM (NH4)2SO7,20 µM IPTG,Biological replicate of sample a4,A4_S9_L004_R1_001.fastq,0.0003902487,Alim_X

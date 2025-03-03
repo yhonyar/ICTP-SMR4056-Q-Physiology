@@ -1,0 +1,254 @@
+Sample_ID,Group,Growth,Strain,Growth_Medium,Carbon_Source,Nitrogen_Source,Supplement,Description,File_Name,Gene_Sum,Source
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.000119,Rlim_A
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.000127,Rlim_A
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,8.86E-05,Rlim_A
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,7.17E-05,Rlim_A
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,6.17E-05,Rlim_A
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,6.08E-05,Rlim_A
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,6.58E-05,Rlim_A
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,5.62E-05,Rlim_A
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,6.14E-05,Rlim_A
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,4.50E-05,Rlim_A
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,5.64E-05,Rlim_A
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.064256835,Rlim_C
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.050558219,Rlim_C
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.051971573,Rlim_C
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.046782275,Rlim_C
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.044600876,Rlim_C
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.040568406,Rlim_C
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.040889857,Rlim_C
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.038529638,Rlim_C
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.040182933,Rlim_C
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.032736415,Rlim_C
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.039755919,Rlim_C
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.00775675,Rlim_D
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.008513673,Rlim_D
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.007365019,Rlim_D
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.006949793,Rlim_D
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.006757576,Rlim_D
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.006705145,Rlim_D
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.006953221,Rlim_D
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.007527362,Rlim_D
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.007047482,Rlim_D
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.006849688,Rlim_D
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.007125945,Rlim_D
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.080609202,Rlim_E
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.070363879,Rlim_E
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.066342846,Rlim_E
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.057297032,Rlim_E
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.055540189,Rlim_E
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.051015982,Rlim_E
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.050740011,Rlim_E
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.049660454,Rlim_E
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.050335949,Rlim_E
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.043516091,Rlim_E
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.048445926,Rlim_E
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.018123447,Rlim_F
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.016297614,Rlim_F
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.017084461,Rlim_F
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.015981319,Rlim_F
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.016968163,Rlim_F
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.015390765,Rlim_F
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.016698862,Rlim_F
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.015547258,Rlim_F
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.017091723,Rlim_F
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.013776925,Rlim_F
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.016224421,Rlim_F
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.045181307,Rlim_G
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.039307943,Rlim_G
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.031216524,Rlim_G
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.025706899,Rlim_G
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.023304893,Rlim_G
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.020356898,Rlim_G
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.02147147,Rlim_G
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.018193785,Rlim_G
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.020872409,Rlim_G
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.016616198,Rlim_G
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.020472787,Rlim_G
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.025997725,Rlim_H
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.02462146,Rlim_H
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.020741465,Rlim_H
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.017536081,Rlim_H
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.016692477,Rlim_H
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.01500997,Rlim_H
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.015983829,Rlim_H
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.015301871,Rlim_H
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.016383149,Rlim_H
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.013350634,Rlim_H
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.016138234,Rlim_H
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.023053136,Rlim_I
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.025784324,Rlim_I
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.019424016,Rlim_I
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.019999661,Rlim_I
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.01672511,Rlim_I
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.018204707,Rlim_I
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.016994933,Rlim_I
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.016900113,Rlim_I
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.016498583,Rlim_I
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.015721681,Rlim_I
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.016591124,Rlim_I
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.38777448,Rlim_J
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.33223158,Rlim_J
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.45916074,Rlim_J
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.4779679,Rlim_J
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.51690699,Rlim_J
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.52209065,Rlim_J
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.53179969,Rlim_J
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.52522334,Rlim_J
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.53453961,Rlim_J
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.56866565,Rlim_J
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.538815512,Rlim_J
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.077098922,Rlim_K
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.121780415,Rlim_K
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.084261416,Rlim_K
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.103100922,Rlim_K
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.096797089,Rlim_K
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.104847174,Rlim_K
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.09494379,Rlim_K
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.107850378,Rlim_K
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.094459752,Rlim_K
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.098605232,Rlim_K
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.094447671,Rlim_K
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.023196539,Rlim_L
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.02223055,Rlim_L
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.023343186,Rlim_L
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.023594997,Rlim_L
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.022916636,Rlim_L
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.022557631,Rlim_L
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.023308479,Rlim_L
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.022702933,Rlim_L
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.023705287,Rlim_L
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.021306639,Rlim_L
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.022765501,Rlim_L
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.06660461,Rlim_M
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.09493424,Rlim_M
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.065843015,Rlim_M
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.069315061,Rlim_M
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.059556426,Rlim_M
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.067243591,Rlim_M
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.058737907,Rlim_M
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.068173789,Rlim_M
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.058473316,Rlim_M
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.058841684,Rlim_M
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.058979559,Rlim_M
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.041404482,Rlim_N
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.037545802,Rlim_N
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.03054788,Rlim_N
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.020427194,Rlim_N
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.014947596,Rlim_N
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.006354273,Rlim_N
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.010775322,Rlim_N
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.001469382,Rlim_N
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.006221655,Rlim_N
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.000689987,Rlim_N
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.005611603,Rlim_N
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.033671043,Rlim_O
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.031937788,Rlim_O
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.029676763,Rlim_O
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.025792234,Rlim_O
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.027554739,Rlim_O
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.025330962,Rlim_O
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.027920399,Rlim_O
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.025529208,Rlim_O
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.028955202,Rlim_O
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.024285073,Rlim_O
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.02847344,Rlim_O
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.027413094,Rlim_P
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.026374474,Rlim_P
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.023224601,Rlim_P
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.019932314,Rlim_P
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.018880707,Rlim_P
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.016387977,Rlim_P
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.017822325,Rlim_P
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.016597994,Rlim_P
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.017643373,Rlim_P
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.014630732,Rlim_P
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.017171574,Rlim_P
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.002286796,Rlim_Q
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.002231849,Rlim_Q
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.001618911,Rlim_Q
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.001545357,Rlim_Q
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.001447914,Rlim_Q
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.001351565,Rlim_Q
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.001300697,Rlim_Q
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.001365262,Rlim_Q
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.001369569,Rlim_Q
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.001237175,Rlim_Q
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.001447974,Rlim_Q
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.008421351,Rlim_R
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.008482725,Rlim_R
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.006968061,Rlim_R
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.006549576,Rlim_R
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.006240425,Rlim_R
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.005960814,Rlim_R
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.00605211,Rlim_R
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.00618212,Rlim_R
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.006350823,Rlim_R
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.005709211,Rlim_R
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.00627401,Rlim_R
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.011468626,Rlim_S
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.01297137,Rlim_S
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.009886024,Rlim_S
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.008996505,Rlim_S
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.008556106,Rlim_S
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.008491304,Rlim_S
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.008644868,Rlim_S
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.008655397,Rlim_S
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.008983227,Rlim_S
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.008227468,Rlim_S
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.008996127,Rlim_S
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.02979686,Rlim_T
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.029673507,Rlim_T
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.025468459,Rlim_T
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.021993188,Rlim_T
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.020013271,Rlim_T
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.017588712,Rlim_T
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.019223941,Rlim_T
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.015889276,Rlim_T
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.018347767,Rlim_T
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.01462187,Rlim_T
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.018249355,Rlim_T
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.012654627,Rlim_U
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.011251406,Rlim_U
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.016186434,Rlim_U
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.018443811,Rlim_U
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.017340656,Rlim_U
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.019322754,Rlim_U
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.018556734,Rlim_U
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.019451881,Rlim_U
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.018591392,Rlim_U
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.020260702,Rlim_U
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.018740019,Rlim_U
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.00684699,Rlim_V
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.006782984,Rlim_V
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.006089141,Rlim_V
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.00548304,Rlim_V
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.005613608,Rlim_V
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.005148299,Rlim_V
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.005457093,Rlim_V
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.005098644,Rlim_V
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.005902067,Rlim_V
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.004960273,Rlim_V
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.005944889,Rlim_V
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,1.42E-05,Rlim_W
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,1.94E-05,Rlim_W
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,1.72E-05,Rlim_W
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,1.74E-05,Rlim_W
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,1.83E-05,Rlim_W
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,1.95E-05,Rlim_W
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,1.72E-05,Rlim_W
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,2.29E-05,Rlim_W
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,2.08E-05,Rlim_W
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,2.57E-05,Rlim_W
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,1.99E-05,Rlim_W
+r0,Rlim,0.89,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,NCM3722 (wild type) in MOPS medium,R0_S9_L001_R1_001.fastq,0.000335958,Rlim_X
+r0_1,Rlim,0.91,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,,Biological replicate of sample r0,R0_S10_L004_R1_001.fastq,0.000322594,Rlim_X
+r1,Rlim,0.71,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Cloramphenicol (translational) inhibition,R1_S10_L001_R1_001.fastq,0.00038449,Rlim_X
+r1_1,Rlim,0.61,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,2 µM chloramphenicol,Biological replicate of sample r1,R1_S11_L004_R1_001.fastq,0.000410543,Rlim_X
+r2,Rlim,0.53,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Cloramphenicol (translational) inhibition,R2_S11_L001_R1_001.fastq,0.000428376,Rlim_X
+r2_1,Rlim,0.44,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,4 µM chloramphenicol,Biological replicate of sample r2,R2_S12_L004_R1_001.fastq,0.000373348,Rlim_X
+r3,Rlim,0.45,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Cloramphenicol (translational) inhibition,R3_S12_L001_R1_001.fastq,0.000396772,Rlim_X
+r3_1,Rlim,0.35,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,6 µM chloramphenicol,Biological replicate of sample r3,R3_S13_L004_R1_001.fastq,0.000406206,Rlim_X
+r4,Rlim,0.4,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Cloramphenicol (translational) inhibition,R4_S13_L001_R1_001.fastq,0.000445047,Rlim_X
+r4_1,Rlim,0.28,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,8 µM chloramphenicol,Biological replicate of sample r4,R4_S14_L004_R1_001.fastq,0.000374775,Rlim_X
+r5,Rlim,0.38,NCM3722,MOPS,0.2% glucose,10 mM NH4Cl,9 µM chloramphenicol,Cloramphenicol (translational) inhibition,R5_S14_L001_R1_001.fastq,0.000426377,Rlim_X
